@@ -1,11 +1,14 @@
 body {
   background-color: powderblue;
 }
-img {
-}
+
 h1 {
   color: blue;
   font-size: 80%;
   border: 2px solid powderblue;
   padding: 30px;
+  text-align: center;
+  font-weight: bold;
+  line-height: normal;
+  font-family: 'Goudy Bookletter 1911', sans-serif;
 }
